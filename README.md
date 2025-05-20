@@ -1,7 +1,8 @@
 INSTALAÇÕES DE PAINÉIS ELÉTRICOS PARA ADEQUAÇÃO À NR12 EM EQUIPAMENTOS DE ELEVAÇÃO DE CARGAS EM UMA INDÚSTRIA ALIMENTÍCIA
 
 
-![Captura de tela 2025-05-16 123647](https://github.com/user-attachments/assets/e2dec157-bca9-46db-9556-2c14aa380e7a)
+![image](https://github.com/user-attachments/assets/6b0d92e3-49bd-451f-b2c6-6ab15f24a477)
+
 
 Diogo Henrique de Camargo (FHO) / Orientador Prof: Daniel Augusto Pagi Ferreira (FHO)
 
