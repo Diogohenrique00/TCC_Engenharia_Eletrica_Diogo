@@ -4,11 +4,11 @@ Este repositório apresenta um estudo de caso sobre a adequação de painéis el
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📌 Objetivos do Projeto
 
-✅ Analisar o processo de adequação de um equipamento de elevação de cargas à NR-12, com ênfase na instalação e operação de painéis elétricos normatizados e seguros;
-✅ Verificar as principais não conformidades encontradas no sistema de comando e controle anterior;
-✅ Descrever os procedimentos técnicos e normativos utilizados na adequação dos painéis;
-✅ Avaliar os indicadores com a implementação, considerando ganhos em segurança, eficiência e desempenho técnico
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+✅ Analisar o processo de adequação de um equipamento de elevação de cargas à NR-12, com ênfase na instalação e operação de painéis elétricos normatizados e seguros;  
+✅ Verificar as principais não conformidades encontradas no sistema de comando e controle anterior;                                                                    
+✅ Descrever os procedimentos técnicos e normativos utilizados na adequação dos painéis;                                                                               
+✅ Avaliar os indicadores com a implementação, considerando ganhos em segurança, eficiência e desempenho técnico.                                                      
+_______________________________________________________________________________________________________________________________________________________________________
 ## 🔍 Conteúdo Técnico
 
 O trabalho abrange todas as etapas necessárias para garantir a segurança na utilização de máquinas e equipamentos, especificamente em uma talha elétrica:
